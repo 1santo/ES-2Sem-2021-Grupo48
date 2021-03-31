@@ -5,14 +5,13 @@ Desenvolvimento da aplicacao CodeQualityAssessor para a disciplina de Engenharia
 
 |Nome|Email|Numero|      
 |----|-----|-------|      
-|David Ramires|john@iscte-iul.pt|87631| 
+|David Ramires|@iscte-iul.pt|87631| 
 |----|-----|-------|      
-|Francisco Berrincha|john@iscte-iul.pt|82791| 
+|Francisco Berrincha|@iscte-iul.pt|82791| 
 |----|-----|-------|      
-|Francisco Henriques|john@iscte-iul.pt|78404| 
-|----|-----|-------|      
-|Ricardo Pinheiro|john@iscte-iul.pt|87294| 
-|----|-----|-------|      
+|Francisco Henriques|@iscte-iul.pt|78404|     
+|Ricardo Pinheiro|@iscte-iul.pt|87294| 
+    
 |Sofia Santo|tsvde@iscte-iul.pt|69354| 
 
 * **Erros:**
